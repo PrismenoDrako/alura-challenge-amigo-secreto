@@ -1,3 +1,5 @@
+<img width="3780" height="1890" alt="Banner amigo secreto" src="https://github.com/user-attachments/assets/eb22ec23-71c5-468a-9f66-2eb871492d89" />
+
 ## CHALLENGE AMIGO SECRETO - ALURA LATAM
 Este repositorio contiene la solución al **Challenge Amigo secreto** de **ALURA LATAM**, el cual consistía en desarrollar una aplicación que permita a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
 
@@ -11,5 +13,8 @@ Validar entrada: Si el campo de texto está vacío, el programa mostrará una al
 Visualizar la lista: Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
 
 Sorteo aleatorio: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
+
+## Solución Online:
+https://prismenodrako.github.io/alura-challenge-amigo-secreto/
 
 
